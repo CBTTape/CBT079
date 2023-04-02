@@ -1,0 +1,14 @@
+2023-04-02 21:23:27.876586 - Initialized conversion of CBT079
+2023-04-02 21:23:28.171743 - Received CBT.V504.FILE079.PDS from FILE079.XMI 
+2023-04-02 21:23:28.174249 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE079.PDS, moved to PDS/$$$#DATE
+2023-04-02 21:23:28.175401 - Found $$$DOC.txt (text/plain) in CBT.V504.FILE079.PDS, moved to PDS/$$$DOC
+2023-04-02 21:23:28.176533 - Found @FILE079.txt (text/plain) in CBT.V504.FILE079.PDS, moved to PDS/@FILE079
+2023-04-02 21:23:28.177652 - Found CLIST1.txt (text/plain) in CBT.V504.FILE079.PDS, moved to PDS/CLIST1
+2023-04-02 21:23:28.178981 - Found CLIST2.txt (text/plain) in CBT.V504.FILE079.PDS, moved to PDS/CLIST2
+2023-04-02 21:23:28.180204 - Found DCFMACRO.txt (text/plain) in CBT.V504.FILE079.PDS, moved to PDS/DCFMACRO
+2023-04-02 21:23:28.181295 - Found DOCLIB.txt (text/plain) in CBT.V504.FILE079.PDS, moved to PDS/DOCLIB
+2023-04-02 21:23:28.182621 - Found MLIB.txt (text/plain) in CBT.V504.FILE079.PDS, moved to PDS/MLIB
+2023-04-02 21:23:28.184113 - Found PLIB1.txt (text/plain) in CBT.V504.FILE079.PDS, moved to PDS/PLIB1
+2023-04-02 21:23:28.185253 - Found PLIB2.txt (text/plain) in CBT.V504.FILE079.PDS, moved to PDS/PLIB2
+2023-04-02 21:23:28.186326 - Found PUBTOOLS.txt (text/plain) in CBT.V504.FILE079.PDS, moved to PDS/PUBTOOLS
+2023-04-02 21:23:28.187791 - Found SOURCE.txt (text/plain) in CBT.V504.FILE079.PDS, moved to PDS/SOURCE
